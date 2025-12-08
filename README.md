@@ -223,6 +223,19 @@ cursor.callproc("PKG_ACCOUNT.GET_LIVES", [user_id, result_out])
 > 📌 *El backend siempre usa alias TNS y necesita acceso al archivo wallet.*
 
 ---
+## 7.🎥📱 Recursos del Proyecto (Video Demo + APK)
+
+Para complementar la documentación técnica y mostrar el funcionamiento real de Lumin, hemos preparado una carpeta pública con:
+
+🎬 Video de presentación del proyecto
+
+📦 APK instalable de la aplicación Android
+
+<p align="center"> <a href="https://drive.google.com/drive/folders/1utLqDLVvbOoHE07d9MTmp_pc22Jr0oQn" target="_blank"> <img src="https://img.shields.io/badge/Google_Drive-Recursos_del_Proyecto-34A853?style=for-the-badge&logo=google-drive&logoColor=white" /> </a> </p>
+
+📌 Haz clic en el badge para acceder al video y al APK.
+
+---
 
 ## 👥 Equipo de Desarrollo
 
